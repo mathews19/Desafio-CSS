@@ -18,8 +18,8 @@ ul li
 {
     position: relative;
     list-style: none;
-    width: 60px;
-    height: 60px;
+    width: 59px;
+    height: 59px;
     margin: 0 30px;
     transform: rotate(-30deg) skew(25deg);
     background: #ccc;
