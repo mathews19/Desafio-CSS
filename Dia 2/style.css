@@ -18,8 +18,9 @@ body
     border-radius: 50%;
     box-shadow: 0 4px 0 #3515f0;
     background: transparent;
-    animation: animate 1s linear infinite;
+   animation: animate 1s linear infinite;
 }
+
 .text
 {
     width: 300px;
