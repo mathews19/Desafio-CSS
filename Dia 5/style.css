@@ -8,8 +8,11 @@ body
 .center 
 {
     position: absolute;
+
     top: 50%;
+
     left: 50%;
+
     transform: translate(-50%, -50%);
 }
 .pulse
@@ -51,4 +54,6 @@ body
     {
         box-shadow: 0 0 0 0 rgba(55, 209, 201, 0), 0 0 0 30px rgba(55, 209, 201, 0);
     }
+
+    
 }
