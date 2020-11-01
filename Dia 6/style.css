@@ -1,0 +1,115 @@
+body
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lato', sans-serif;
+    background-color: #272727;
+}
+ul
+{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+p{
+    color: #484848;
+    font-size: 88px;
+    letter-spacing: 15px;
+    animation: lighting 3s linear infinite;
+
+}
+ul li 
+{
+    list-style: none;
+    color: #484848;
+    font-size: 88px;
+    letter-spacing: 15px;
+    animation: lighting 2.5s linear infinite;
+}
+@keyframes lighting 
+{
+	0% {
+		color: #484848;
+		text-shadow: none;
+	}
+
+	90% {
+		color: #484848;
+		text-shadow: none;
+	}
+
+	100% {
+		color: #f8b706;
+		text-shadow: 0 0 7px #fff900, 0 0 50px #ff6c00;
+	}
+}
+
+ul li:nth-child(1) 
+{
+	animation-delay: 0
+}
+
+ul li:nth-child(2) 
+{
+	animation-delay: 0.15s
+}
+
+ul li:nth-child(3) 
+{
+	animation-delay: 0.30s
+}
+
+ul li:nth-child(4) 
+{
+	animation-delay: 0.45s
+}
+
+ul li:nth-child(5) 
+{
+	animation-delay: 0.60s
+}
+
+ul li:nth-child(6) 
+{
+	animation-delay: 0.75s
+}
+
+ul li:nth-child(7) 
+{
+	animation-delay: 0.90s
+}
+
+ul li:nth-child(8) 
+{
+	animation-delay: 1.05s
+}
+ul li:nth-child(9) 
+{
+	animation-delay: 1.20s
+}
+ul li:nth-child(10) 
+{
+	animation-delay: 1.35s
+}
+ul li:nth-child(11) 
+{
+	animation-delay: 1.50s
+}
+ul li:nth-child(12) 
+{
+	animation-delay: 1.65s
+}
+ul li:nth-child(13) 
+{
+	animation-delay: 1.80s
+}
+ul li:nth-child(14) 
+{
+	animation-delay: 1.95s
+}
+ul li:nth-child(15) 
+{
+	animation-delay: 2.10s
+}
