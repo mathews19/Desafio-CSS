@@ -2,7 +2,7 @@ body
 {
     margin: 0;
     padding: 0;
-    background: #bd2ae2;
+    background: #435ef8;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -20,7 +20,7 @@ span
     width: 50px;
     height: 50px;
     background-color:white;
-    border-radius: 4px;
+    border-radius: 50px;
     animation: chase 2s linear infinite;
 
 }

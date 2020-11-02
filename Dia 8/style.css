@@ -40,7 +40,7 @@ body
     transform: translateX(-50%);
     border-radius: 50%;
 }
-/*
+
 @keyframes batidao
 {
     0% {transform:  rotate(45deg) scale(1);}
