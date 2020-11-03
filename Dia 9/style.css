@@ -6,13 +6,6 @@ body
 	align-items: center;
 	background-color: #8fb9e2;
 }
-.title{
-   color: green;
-   display: flex;
-   justify-content: center;
-   padding: 100px;
-
-}
 
 .pendulo 
 {
