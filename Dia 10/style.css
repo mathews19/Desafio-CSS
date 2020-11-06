@@ -1,7 +1,7 @@
 body
 {
     height: 100vh;
-    display: flex;
+    display:flex;
     justify-content: center;
     align-items: center;
     background-color: rgb(34, 69, 221);
@@ -20,11 +20,11 @@ span::before
 
 @keyframes word-swith 
 {
-    0% {content: '💻';}
+    0% {content: '👪';}
 
-    25% {content:'👨🏼‍💻'}
+    25% {content:'👨🏼‍💻';}
 
-    50%{content: '🍕';}
+    50%{content: '🚴🏽';}
 
     75%{content: '🚀';}
 
