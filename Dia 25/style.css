@@ -13,6 +13,7 @@ body {
 }
 
 div[class*=box] {
+   
 	height: 33.33%;
 	width: 100%; 
   display: flex;
@@ -25,6 +26,7 @@ div[class*=box] {
 .box-3 { background-color: #3cac70; }
 
 .btn {
+    border-radius: 15px;
 	line-height: 50px;
 	height: 50px;
 	text-align: center;
@@ -32,13 +34,11 @@ div[class*=box] {
 	cursor: pointer;
 }
 
-/* 
-========================
+/*
       BUTTON ONE
-========================
 */
 .btn-one {
-	color: #FFF;
+    color: #FFF;
 	transition: all 0.3s;
 	position: relative;
 }
@@ -88,9 +88,7 @@ div[class*=box] {
 
 
 /* 
-========================
       BUTTON TWO
-========================
 */
 .btn-two {
 	color: #FFF;
@@ -139,9 +137,7 @@ div[class*=box] {
 
 
 /* 
-========================
       BUTTON THREE
-========================
 */
 .btn-three {
 	color: #FFF;
